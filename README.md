@@ -2,7 +2,7 @@
 Best Bot For Streaming Files Online.... 
 <h1 align="center">Telegram File Stream Bot !</h1>
 <p align="center">
-  <a href="https://github.com/P-Phreak/File2Link">
+  <a href="https://github.com/yonaiker95/file2link-cfg-bot2">
     <img src="https://socialify.git.ci/P-Phreak/File2Link/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   <p align="center">
@@ -23,7 +23,7 @@ Best Bot For Streaming Files Online....
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/P-Phreak/File2Link">
+    <a href="https://github.com/yonaiker95/file2link-cfg-bot2">
         <img src="https://i.ibb.co/ZJzJ9Hq/link-3x.png" height="100" width="100" alt="FileStreamBot Logo">
     </a>
 </p>
@@ -42,7 +42,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 2. In .github/workflow/YOURACTION.yml 
 3. edit this file and at last line in file replace the app name with your heroku app name
 
- 4.```URL: "https://teleroid_file2link_bot.herokuapp.com"```
+ 4.```URL: "file2link-cfg-bot2.herokuapp.com"```
           
 5. change this name 😑😑😑
 
@@ -52,7 +52,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yonaiker95/file2link-cfg-bot2)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
@@ -129,12 +129,3 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ### Channel Support
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button.
-
-## Credits
-
-- [@PredatorHackerzZ](https://telegram.me/PredatorHackerzZ)
-
-- [@EverythingSuckz](https://github.com/EverythingSuckz) & [@AbirHasan2005](https://github.com/AbirHasan2005)
-
-- [eyaadh](https://github.com/eyaadh) for his awesome [Megatron Bot](https://github.com/eyaadh/megadlbot_oss)
-- [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
